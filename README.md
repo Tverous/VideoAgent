@@ -1,6 +1,12 @@
 # Usage
 
-Fill the api_key value in `frames.py` and `demo.py`, then execute frames.py and demo.py to get the answers from videos.
+Fill the api_key value in `frames.py` and `demo.py`, then execute the following files in order:
+
+```
+frames.py
+kg/construct.py
+demo.py
+```
 
 # Dependencies 
 
